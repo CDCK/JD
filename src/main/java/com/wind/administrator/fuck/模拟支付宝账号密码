@@ -1,0 +1,10 @@
+account: required (string)
+支付宝账号（15018888888）
+
+apwd: required (string)
+登陆密码（123456）
+
+ppwd: required (string)
+支付密码（282828）
+
+AliPayActivity
