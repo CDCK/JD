@@ -104,7 +104,6 @@ public class ProductDetailsActivity extends BaseActivity implements View.OnClick
                     case 2:
                         changeIndicator(mCommentTv);
                         break;
-
                 }
             }
         });

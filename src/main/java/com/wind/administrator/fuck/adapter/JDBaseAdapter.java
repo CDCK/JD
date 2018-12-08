@@ -33,7 +33,6 @@ public abstract class JDBaseAdapter<T> extends BaseAdapter {
     @Override
     public int getCount() {
         return mDatas != null ? mDatas.size() : 0;
-
     }
 
     public void setDatas(List<T> datas) {

@@ -39,7 +39,6 @@ public class LoginController extends BaseController {
 
 
     public RResult login(final String name, final String pwd) {
-
         HashMap<String, String> params = new HashMap<String, String>();
         //将获取到的账号和密码放入到Map集合中
         params.put("username", name);
